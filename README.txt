@@ -1,0 +1,8 @@
+SvxLink-Modul für ISS-Überflugansage
+====================================
+
+Die in diesem Verzeichnis zu findenden Verzeichnisse bilden die Unix-Verzeichnisstruktur ab,
+wo die einzelnen Dateien hinzukopieren sind.
+
+In der datei home\svxlink\ISSOverflights\database_filling_service.py ist in Zeile 11 die Angabe
+der geographischen Koordinaten auf den eigenen Standort (des Relais) anzupassen.
